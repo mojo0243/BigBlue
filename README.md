@@ -11,3 +11,5 @@ Finally once all questions have been answered the script will attempt to send th
 ENJOY!
 
 (This is for educational purposes and I am not responsible for any actions you take with this script.)
+
+usage "./BigBlue.py"
